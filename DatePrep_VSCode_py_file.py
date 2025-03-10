@@ -1,3 +1,6 @@
+# In jupyter notebook the library DataPrep is taking too much time to load/install.
+# But DataPrep lib is working fine in VS Code editor.
+
 import pandas as pd
 
 # !pip install --upgrade pip    ----> running in terminal
